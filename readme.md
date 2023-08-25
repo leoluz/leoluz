@@ -18,3 +18,7 @@
 <a href="https://github.com/leoluz">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leoluz&theme=darcula">
 </a>
+
+<!--
+Themes demo at https://github-profile-summary-cards.vercel.app/demo.html
+-->
