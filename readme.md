@@ -1,5 +1,11 @@
 ## Github Stats
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table style="border-collapse: collapse; border: none;">
     <tbody>
         <tr style="border: none;">
