@@ -1,25 +1,25 @@
 ## Github Stats
 
-<table>
+<table style="border-collapse: collapse; border: none;">
     <tbody>
-        <tr>
-            <td colspan=2>
+        <tr style="border: none;">
+            <td colspan=2 style="border: none;">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoluz&theme=nord_bright">
             </td>
         </tr>
-        <tr>
-            <td>
+        <tr style="border: none;">
+            <td style="border: none;">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoluz&theme=nord_bright">
             </td>
-            <td align="right">
+            <td align="right" style="border: none;">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leoluz&theme=nord_bright&utcOffset=8">
             </td>
         </tr>
-        <tr>
-            <td>
+        <tr style="border: none;">
+            <td style="border: none;">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoluz&theme=nord_bright">
             </td>
-            <td align="right">
+            <td align="right" style="border: none;">
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leoluz&theme=nord_bright">
             </td>
         </tr>
