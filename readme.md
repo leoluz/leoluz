@@ -1,6 +1,6 @@
 ## Github Stats
 
-### I actually don't care about stats but here it is if you do.. :P
+Note: I actually don't care about stats but here it is if you do.. :P
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoluz&theme=darcula">
 <p />
